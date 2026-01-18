@@ -1,10 +1,9 @@
 name: Update README cards
 
 on:
-  push:
-    branches:
-      - main
-      - master
+  schedule: # Run workflow automatically
+    - cron: "59 * * * *" # Runs every hour, on the hour
+  workflow_dispatch:
 
 jobs:
   build:
