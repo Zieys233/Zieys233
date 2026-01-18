@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-### This is sansegron!
+### This is Sansegron!
 
 I'm a computer science enthusiast who usually works on some personal projects, 
 
