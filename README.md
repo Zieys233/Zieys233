@@ -2,9 +2,7 @@
   <img height="180em" src="./profile/stats.svg" />
   <img height="180em" src="./profile/top-langs.svg" />
 </div>
-<div style="display: inline_block"><br>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-</div>
+
 
 ## Hi there 👋 
 
